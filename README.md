@@ -6,7 +6,7 @@ A fast, dependency-free command-line tool that scores a URL for common **phishin
 
 ## Author
 
-**DARK IBRAHIM** — Cyber Security Expert
+**DARK IBRAHIM** — Cyber Security Expert 
 
 ## What it checks
 
